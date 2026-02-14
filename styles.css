@@ -51,38 +51,8 @@ header
     margin-left: 5px;
     justify-content: center;
 }
-
-.img1
-{ 
-    width: 120px;
-    height: 70px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    background-size: cover;
-    background-image: url("https://images.hindustantimes.com/img/2023/01/29/550x309/delhi_rains_1674974112847_1674981888135_1674981888135.jpeg");
-}
-
-.img2
+img
 {
-    width: 120px;
-    height: 70px;
-    margin-top: 5px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    background-size: cover;
-    background-image: url("https://images.hindustantimes.com/img/2023/01/29/550x309/ADANI-INDIA-GAUTAM-ADANI-0_1675011651023_1675011651023_1675011672003_1675011672003.JPG");
-}
-
-.img3
-{
-    width: 120px;
-    height: 70px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 5px;
-    background-size: cover;
-    background-image: url("https://images.hindustantimes.com/img/2023/01/29/550x309/FRANCE-REFORM-PENSIONS-31_1675022359706_1675022359706_1675022383851_1675022383851.JPG");
+	width: 120px;
+	height: 70px;
 }
